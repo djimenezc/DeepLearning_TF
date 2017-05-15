@@ -1,0 +1,7 @@
+tensorflow
+numpy
+matplotlib
+pandas
+tensor>=0.1.12
+pip
+jupyter
